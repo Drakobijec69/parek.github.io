@@ -7,14 +7,7 @@ height: 153px;
 left: calc(50% - 247px/2 - 0.5px);
 top: calc(50% - 153px/2 - 129.5px);
 }
-.win{
-    width: 247px;
-    position: absolute;
 
-    align-items: center;
-    left: calc(47% - 230px/2 - 0.5px);
-    top: calc(56% - 153px/2 - 129.5px);
-}
 h1.txt{
 font-family: 'Inter';
 font-style: italic;
